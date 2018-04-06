@@ -1,6 +1,6 @@
 
 public class GitTest {
-	Sytem.out.println(aaa);
+	Sytem.out.println(bbbaaa);
 	
 
 }
